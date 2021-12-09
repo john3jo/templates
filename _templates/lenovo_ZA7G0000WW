@@ -4,6 +4,7 @@ title: Lenovo SE-141DC
 model: ZA7G0000WW
 image: /assets/images/lenovo_ZA7G0000WW.jpg
 template9: '{"NAME":"LenovoSE-141DC","GPIO":[0,0,0,0,0,416,0,0,0,417,0,0,0,0],"FLAG":0,"BASE":48}' 
+template1: '{"NAME":"LenovoSE-141DC","GPIO":[0,0,0,0,0,416,0,0,0,449,0,0,0,0],"FLAG":0,"BASE":48}
 link: https://www.lowes.com/pd/Lenovo-Lenovo-Smart-Bulb-White/5001233285
 link2: 
 mlink: https://www.lenovo.com/us/en/virtual-reality-and-smart-devices/smart-home/smart-home-series/Lenovo-SE-141/p/ZA7G0000WW
